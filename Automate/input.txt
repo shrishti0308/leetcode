@@ -1,0 +1,31 @@
+https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/
+
+/*
+- This can be solved using a stack
+- If we encounter a '(' then we push it onto the stack in hope that it will be cancelled out by a ')'
+
+- If we have a direct ')', then we add it to the count
+- In the end, the total number of unmatched '(' & direct ')' is the solution
+*/
+
+class Solution {
+public:
+    int minAddToMakeValid(string s) {
+      stack<char> st;
+      int count = 0;
+      for(int i = 0; i < s.size(); i++){
+        if(s[i] == '('){
+            st.push(s[i]);
+        }
+        else{
+            if(!st.empty()){
+                st.pop();
+            }
+            else{
+                count++;
+            }
+        }
+      }
+       return count + st.size();
+    }
+};
