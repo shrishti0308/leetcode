@@ -2,6 +2,7 @@
 
 | # | Title | Solution |
 |---| ----- | -------- |
+|0796|[Rotate String](https://leetcode.com/problems/rotate-string/description/)|[cpp](Solutions/../Solutions/796_Rotate_String.cpp)|
 |0921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)|[cpp](Solutions/../Solutions/921_Minimum_Add_to_Make_Parentheses_Valid.cpp)|
 |0951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/)|[cpp](Solutions/../Solutions/951_Flip_Equivalent_Binary_Trees.cpp)|
 |1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/)|[cpp](Solutions/../Solutions/1233_Remove_Sub-Folders_from_the_Filesystem.cpp)|
