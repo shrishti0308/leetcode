@@ -19,3 +19,4 @@
 |2981|[Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/description/)|[cpp](Solutions/../Solutions/2981_Find_Longest_Special_Substring_That_Occurs_Thrice_I.cpp)|
 |3152|[Special Array II](https://leetcode.com/problems/special-array-ii/description/)|[cpp](Solutions/../Solutions/3152_Special_Array_II.cpp)|
 |3163|[String Compression III](https://leetcode.com/problems/string-compression-iii/description/)|[cpp](Solutions/../Solutions/3163_String_Compression_III.cpp)|
+|3264|[Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/description/)|[cpp](Solutions/../Solutions/3264_Final_Array_State_After_K_Multiplication_Operations_I.cpp)|
