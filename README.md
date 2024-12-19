@@ -6,6 +6,7 @@
 |0921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)|[cpp](Solutions/../Solutions/921_Minimum_Add_to_Make_Parentheses_Valid.cpp)|
 |0951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/)|[cpp](Solutions/../Solutions/951_Flip_Equivalent_Binary_Trees.cpp)|
 |1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/)|[cpp](Solutions/../Solutions/1233_Remove_Sub-Folders_from_the_Filesystem.cpp)|
+|1475|[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/)|[cpp](Solutions/../Solutions/1475_Final_Prices_With_a_Special_Discount_in_a_Shop.cpp)|
 |1792|[Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/description/)|[cpp](Solutions/../Solutions/1792_Maximum_Average_Pass_Ratio.cpp)|
 |2182|[Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/description/)|[cpp](Solutions/../Solutions/2182_Construct_String_With_Repeat_Limit.cpp)|
 |2530|[Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/description/)|[cpp](Solutions/../Solutions/2530_Maximal_Score_After_Applying_K_Operations.cpp)|
