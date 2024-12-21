@@ -18,6 +18,7 @@
 |2641|[Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/description/)|[cpp](Solutions/../Solutions/2641_Cousins_in_Binary_Tree_II.cpp)|
 |2762|[Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/description/)|[cpp](Solutions/../Solutions/2762_Continuous_Subarrays.cpp)|
 |2779|[Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/description/)|[cpp](Solutions/../Solutions/2779_Maximum_Beauty_of_an_Array_After_Applying_Operation.cpp)|
+|2872|[Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/)|[cpp](Solutions/../Solutions/2872_Maximum_Number_of_K-Divisible_Components.cpp)|
 |2914|[Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/)|[cpp](Solutions/../Solutions/2914_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.cpp)|
 |2938|[Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/)|[cpp](Solutions/../Solutions/2938_Separate_Black_and_White_Balls.cpp)|
 |2981|[Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/description/)|[cpp](Solutions/../Solutions/2981_Find_Longest_Special_Substring_That_Occurs_Thrice_I.cpp)|
