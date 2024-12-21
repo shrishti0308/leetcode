@@ -10,6 +10,7 @@
 |1475|[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/)|[cpp](Solutions/../Solutions/1475_Final_Prices_With_a_Special_Discount_in_a_Shop.cpp)|
 |1792|[Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/description/)|[cpp](Solutions/../Solutions/1792_Maximum_Average_Pass_Ratio.cpp)|
 |2182|[Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/description/)|[cpp](Solutions/../Solutions/2182_Construct_String_With_Repeat_Limit.cpp)|
+|2415|[Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/)|[cpp](Solutions/../Solutions/2415_Reverse_Odd_Levels_of_Binary_Tree.cpp)|
 |2530|[Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/description/)|[cpp](Solutions/../Solutions/2530_Maximal_Score_After_Applying_K_Operations.cpp)|
 |2558|[Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/description/)|[cpp](Solutions/../Solutions/2558_Take_Gifts_From_the_Richest_Pile.cpp)|
 |2583|[Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/description/)|[cpp](Solutions/../Solutions/2583_Kth_Largest_Sum_in_a_Binary_Tree.cpp)|
