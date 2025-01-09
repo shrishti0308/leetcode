@@ -23,6 +23,7 @@
 |2914|[Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/)|[cpp](Solutions/../Solutions/2914_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.cpp)|
 |2938|[Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/)|[cpp](Solutions/../Solutions/2938_Separate_Black_and_White_Balls.cpp)|
 |2981|[Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/description/)|[cpp](Solutions/../Solutions/2981_Find_Longest_Special_Substring_That_Occurs_Thrice_I.cpp)|
+|3042|[Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/)|[cpp](Solutions/../Solutions/3042_Count_Prefix_and_Suffix_Pairs_I.cpp)|
 |3152|[Special Array II](https://leetcode.com/problems/special-array-ii/description/)|[cpp](Solutions/../Solutions/3152_Special_Array_II.cpp)|
 |3163|[String Compression III](https://leetcode.com/problems/string-compression-iii/description/)|[cpp](Solutions/../Solutions/3163_String_Compression_III.cpp)|
 |3264|[Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/description/)|[cpp](Solutions/../Solutions/3264_Final_Array_State_After_K_Multiplication_Operations_I.cpp)|
