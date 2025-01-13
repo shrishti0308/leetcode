@@ -29,4 +29,5 @@
 |3042|[Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/)|[cpp](Solutions/../Solutions/3042_Count_Prefix_and_Suffix_Pairs_I.cpp)|
 |3152|[Special Array II](https://leetcode.com/problems/special-array-ii/description/)|[cpp](Solutions/../Solutions/3152_Special_Array_II.cpp)|
 |3163|[String Compression III](https://leetcode.com/problems/string-compression-iii/description/)|[cpp](Solutions/../Solutions/3163_String_Compression_III.cpp)|
+|3223|[Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/description/)|[cpp](Solutions/../Solutions/3223_Minimum_Length_of_String_After_Operations.cpp)|
 |3264|[Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/description/)|[cpp](Solutions/../Solutions/3264_Final_Array_State_After_K_Multiplication_Operations_I.cpp)|
