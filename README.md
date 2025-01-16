@@ -15,6 +15,7 @@
 |2182|[Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/description/)|[cpp](Solutions/../Solutions/2182_Construct_String_With_Repeat_Limit.cpp)|
 |2185|[Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/)|[cpp](Solutions/../Solutions/2185_Counting_Words_With_a_Given_Prefix.cpp)|
 |2415|[Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/)|[cpp](Solutions/../Solutions/2415_Reverse_Odd_Levels_of_Binary_Tree.cpp)|
+|2425|[Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/)|[cpp](Solutions/../Solutions/2425_Bitwise_XOR_of_All_Pairings.cpp)|
 |2429|[Minimize XOR](https://leetcode.com/problems/minimize-xor/description/)|[cpp](Solutions/../Solutions/2429_Minimize_XOR.cpp)|
 |2530|[Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/description/)|[cpp](Solutions/../Solutions/2530_Maximal_Score_After_Applying_K_Operations.cpp)|
 |2558|[Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/description/)|[cpp](Solutions/../Solutions/2558_Take_Gifts_From_the_Richest_Pile.cpp)|
